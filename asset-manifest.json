@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7170899a.css",
-    "main.js": "/static/js/main.ae4c207f.js",
-    "static/js/787.a91053ce.chunk.js": "/static/js/787.a91053ce.chunk.js",
-    "index.html": "/index.html",
-    "main.7170899a.css.map": "/static/css/main.7170899a.css.map",
-    "main.ae4c207f.js.map": "/static/js/main.ae4c207f.js.map",
-    "787.a91053ce.chunk.js.map": "/static/js/787.a91053ce.chunk.js.map"
+    "main.css": "/Ecommerce-mcgill-react/static/css/main.7170899a.css",
+    "main.js": "/Ecommerce-mcgill-react/static/js/main.9dc2cb2a.js",
+    "static/js/787.a91053ce.chunk.js": "/Ecommerce-mcgill-react/static/js/787.a91053ce.chunk.js",
+    "index.html": "/Ecommerce-mcgill-react/index.html",
+    "main.7170899a.css.map": "/Ecommerce-mcgill-react/static/css/main.7170899a.css.map",
+    "main.9dc2cb2a.js.map": "/Ecommerce-mcgill-react/static/js/main.9dc2cb2a.js.map",
+    "787.a91053ce.chunk.js.map": "/Ecommerce-mcgill-react/static/js/787.a91053ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7170899a.css",
-    "static/js/main.ae4c207f.js"
+    "static/js/main.9dc2cb2a.js"
   ]
 }
