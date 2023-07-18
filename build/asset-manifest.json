@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-mcgill-react/static/css/main.7170899a.css",
+    "main.js": "/Ecommerce-mcgill-react/static/js/main.9dc2cb2a.js",
+    "static/js/787.a91053ce.chunk.js": "/Ecommerce-mcgill-react/static/js/787.a91053ce.chunk.js",
+    "index.html": "/Ecommerce-mcgill-react/index.html",
+    "main.7170899a.css.map": "/Ecommerce-mcgill-react/static/css/main.7170899a.css.map",
+    "main.9dc2cb2a.js.map": "/Ecommerce-mcgill-react/static/js/main.9dc2cb2a.js.map",
+    "787.a91053ce.chunk.js.map": "/Ecommerce-mcgill-react/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7170899a.css",
+    "static/js/main.9dc2cb2a.js"
+  ]
+}
